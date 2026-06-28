@@ -1,0 +1,25 @@
+---
+layout: home
+
+hero:
+  name: 个人笔记
+  text: 记录、整理、分享
+  tagline: 将碎片化的知识与思考沉淀为可查阅、可分享的笔记站点
+  actions:
+    - theme: brand
+      text: 浏览笔记
+      link: /notes/
+    - theme: alt
+      text: 在 GitHub 上查看
+      link: https://github.com/yeducos/notebook
+
+features:
+  - title: 分类清晰
+    details: 按主题建立分类目录，便于快速定位相关内容。
+  - title: 自动生成目录
+    details: 根据 Markdown 标题层级自动生成页面目录，阅读体验更佳。
+  - title: 支持在线编辑
+    details: 每页底部提供“在 GitHub 上编辑此页”入口，方便随时修改。
+  - title: 自动部署
+    details: 推送至 main 分支后，自动构建并部署到 GitHub Pages。
+---
