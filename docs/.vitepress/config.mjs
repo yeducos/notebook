@@ -19,6 +19,7 @@ export default defineConfig({
         items: [
           { text: '技术', link: '/notes/tech/' },
           { text: '生活', link: '/notes/life/' },
+          { text: '思考', link: '/notes/thinking/' },
         ]
       }
     ],
@@ -42,6 +43,14 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '生活笔记索引', link: '/notes/life/' }
+          ]
+        },
+        {
+          text: '思考',
+          collapsed: false,
+          items: [
+            { text: '思考笔记索引', link: '/notes/thinking/' },
+            { text: '图尔敏论证模型', link: '/notes/thinking/toulmin-argument-model' }
           ]
         }
       ]
