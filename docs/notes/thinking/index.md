@@ -10,6 +10,9 @@ description: 思维方法论、论证框架与决策模型
 ## 目录
 
 - [图尔敏论证模型](/notes/thinking/toulmin-argument-model)
+- [AI 处理老旧代码的系统方法论](/notes/thinking/ai-code-modification-methodology)
+- [UI 复刻工作方法论](/notes/thinking/ui-replication-guide)
+- [UI 复刻提示词](/notes/thinking/ui-replication-prompt)
 
 ## 写作提示
 

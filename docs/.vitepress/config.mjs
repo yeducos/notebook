@@ -50,7 +50,10 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '思考笔记索引', link: '/notes/thinking/' },
-            { text: '图尔敏论证模型', link: '/notes/thinking/toulmin-argument-model' }
+            { text: '图尔敏论证模型', link: '/notes/thinking/toulmin-argument-model' },
+            { text: 'AI 处理老旧代码的系统方法论', link: '/notes/thinking/ai-code-modification-methodology' },
+            { text: 'UI 复刻工作方法论', link: '/notes/thinking/ui-replication-guide' },
+            { text: 'UI 复刻提示词', link: '/notes/thinking/ui-replication-prompt' }
           ]
         }
       ]
