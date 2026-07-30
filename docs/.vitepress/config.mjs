@@ -35,7 +35,8 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '技术笔记索引', link: '/notes/tech/' },
-            { text: '示例笔记', link: '/notes/tech/example' }
+            { text: '示例笔记', link: '/notes/tech/example' },
+            { text: 'TypeScript 高性能游戏架构与网络层设计', link: '/notes/tech/typescript-game-architecture' }
           ]
         },
         {

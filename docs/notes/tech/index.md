@@ -10,6 +10,7 @@ description: 技术学习与实践记录
 ## 目录
 
 - [示例笔记](/notes/tech/example)
+- [TypeScript 高性能游戏架构与网络层设计](/notes/tech/typescript-game-architecture)
 
 ## 写作规范
 
